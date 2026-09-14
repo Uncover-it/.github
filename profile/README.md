@@ -6,6 +6,6 @@ We are 2 developers making stuff for fun
 
 # Contact
 
-144: 144@uncoverit.org
+mel: mel@uncoverit.org
 
 WarFiN: warfin@uncoverit.org
